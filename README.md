@@ -1,2 +1,2 @@
-# Compiler
-(Fall 2016) 《Compiler》 Assignment in School of Computer Science & Engineering, Soongsil University
+# SSU_Compiler
+(Fall 2016) 《Compiler》 Materials in School of Computer Science & Engineering, Soongsil University
