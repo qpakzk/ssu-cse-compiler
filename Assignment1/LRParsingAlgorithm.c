@@ -11,6 +11,7 @@
 #define EXPRESSION 0
 #define TERM 1
 #define FACTOR 2
+#define NIL -1
 
 #define ACC 1000
 
@@ -121,6 +122,8 @@ int Symbol() {
 		if(ch != '\n')
 			LexicalError();
 	}
+
+	return NIL;
 }
 
 void Push(int i) {
